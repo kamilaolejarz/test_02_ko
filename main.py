@@ -1,1 +1,1 @@
-print('titanic')
+print('titanick')
